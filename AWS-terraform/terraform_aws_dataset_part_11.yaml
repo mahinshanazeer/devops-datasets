@@ -1,0 +1,11 @@
+truction: "Explain Terraform AWS best practices scenario 1210598."
+  response: |
+    Use remote S3 backend with DynamoDB locking.
+    Implement IAM least privilege policies.
+    Use modules for reusable infrastructure.
+    Validate using terraform validate.
+    Plan using terraform plan.
+    Apply using terraform apply.
+    Secure secrets using AWS Secrets Manager.
+    Monitor using CloudWatch.
+    Maintain state integrity.
